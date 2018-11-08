@@ -11,9 +11,9 @@ Az `eye` a kamerában van, a `forward` vektor az `at`re néz, az `up` a felfele 
 
 ### Parametrikus felületek
 
-> A felületet felosztjuk egyenlő ( ekvidisztáns) négyzetekre, ezt a p(m,v) = [x    y   z]^T
+> A felületet felosztjuk egyenlő ( ekvidisztáns) négyzetekre, ezt a `p(m,v) = [x    y   z]^T`
 
 > Henger palást `r` sugarú `h` magasságú: `z= [r*cosA    v*h    r*sinA]^T` és `z`az egy pont a henger palástján!
 
-getPost átírva minden alakzat kialakítható
+`getPost` átírva minden alakzat kialakítható
 HF: tórusz, klein kancsó
