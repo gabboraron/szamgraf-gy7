@@ -16,4 +16,5 @@ Az `eye` a kamerában van, a `forward` vektor az `at`re néz, az `up` a felfele 
 > Henger palást `r` sugarú `h` magasságú: `z= [r*cosA    v*h    r*sinA]^T` és `z`az egy pont a henger palástján!
 
 `getPost` átírva minden alakzat kialakítható
+
 HF: tórusz, klein kancsó
